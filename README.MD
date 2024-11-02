@@ -112,4 +112,4 @@ print(result)
 | Объединение (union), s \| t              | O(len(s) + len(t))| Объединение двух множеств требует добавления всех элементов из обоих множеств, что требует времени, пропорционального сумме их размеров.|
 
 # ВНИМАНИЕ! кот
-![ВНИМАНИЕ! Фото с котом](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH0iPqW-o0gJZoDRHR2foC9NF6igJdfPQQx27i8v6wdW1Vy6hahBFOe3lXoK8mWYInjcA&usqp=CAU)
+![ВНИМАНИЕ! кот](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH0iPqW-o0gJZoDRHR2foC9NF6igJdfPQQx27i8v6wdW1Vy6hahBFOe3lXoK8mWYInjcA&usqp=CAU)
